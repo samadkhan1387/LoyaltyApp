@@ -23,6 +23,5 @@ Below are the app screenshots showcasing various features and designs:
     <td><img src="./screenshot/points.png" width="200" height="400" alt="Points Screen" /></td>
     <td><img src="./screenshot/category vouchers.png" width="200" height="400" alt="Category Vouchers Screen" /></td>
     <td><img src="./screenshot/profile.png" width="200" height="400" alt="Profile Screen" /></td>
-    <td><img src="./screenshot/screen12.png" width="200" height="400" alt="Screen 12" /></td>
   </tr>
 </table>
