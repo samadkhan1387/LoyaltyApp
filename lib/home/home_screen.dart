@@ -64,7 +64,7 @@ class _HomeScreenState extends State<HomeScreen> {
                     radius: 40, // Adjusted radius to center the avatar
                     child: Icon(
                       Icons.person,
-                      size: 60,
+                      size: 35,
                       color: kPrimaryColor, // Match the icon color with the header background
                     ),
                   ),
